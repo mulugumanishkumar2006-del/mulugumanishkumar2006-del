@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT%20Image%20Jun%2020,%202026,%2007_03_44%20PM.png" width="100%">
+</p>
 # 👋 Hi, I'm Mulugu Maneesh Kumar
 
 ## 🚀 AI & Machine Learning Student | Aspiring AI Engineer
