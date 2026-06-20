@@ -95,4 +95,15 @@ I enjoy learning through hands-on projects and continuously improving my skills 
 
 ---
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&theme=tokyonight"/>
+
+</p>
 ⭐ Thanks for visiting my profile!
