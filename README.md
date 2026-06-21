@@ -62,7 +62,6 @@ I enjoy learning through hands-on projects and continuously improving my skills 
 - 🛡️ Secure AI Firewall System
 - 💬 Smart IT Helpdesk Agent
 - 🤖 AgentForge AI
-- 📚 Library Management System
 - 🏨 Tourist Recommendation System
 
 ---
@@ -75,16 +74,6 @@ I enjoy learning through hands-on projects and continuously improving my skills 
 - LangGraph
 - MCP
 - GitHub Actions
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Become a Microsoft Learn Student Ambassador
-- ✅ Build 20+ AI Projects
-- ✅ Contribute to Open Source
-- ✅ Earn Microsoft Applied Skills Credentials
-- ✅ Secure an AI Internship
 
 ---
 
