@@ -44,6 +44,11 @@ I enjoy learning through hands-on projects and continuously improving my skills 
 
 ---
 
+AI & Machine Learning Student
+Microsoft Learn Level 10
+Azure for Students
+Building AI Agents, RAG Systems, and Data Analytics Projects
+
 ## 🏆 Microsoft Learn
 
 - 🎖️ Level 10
