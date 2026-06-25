@@ -1,60 +1,63 @@
 # 👋 Hi, I’m Mulugu Manish Kumar
+**AI Systems Engineer** specializing in production-grade LLM Orchestration, RAG Architecture, and Deterministic AI Guardrails. 
 
-**AI Engineer** focused on building production‑grade LLM systems, RAG platforms, and interactive browser AI experiences. I bridge the gap between research-level alignment and practical, robust software engineering.
-
----
-
-## 🚀 Executive Summary
-* **Focus Areas:** Retrieval‑Augmented Generation (RAG), Model Alignment, LLM Observability, and Browser-Native ML UX.
-* **Core Philosophy:** Shipping reliable, deterministic, and demo‑ready AI applications backed by CI/CD and strong testing practices.
-* **Tech Stack:** Python, TypeScript, FastAPI, React, Streamlit, Docker, ChromaDB, GitHub Actions.
+I don't just build wrappers; I engineer scalable, observable, and cost-optimized AI infrastructure.
 
 ---
 
-## 🛠️ What I Build
-* **Production RAG & Alignment Platforms:** End-to-end pipelines handling data ingestion, fine‑tuning data curation, evaluation metrics, and automated CI deployment gates.
-* **LLM Observability Tooling:** Custom frameworks for tracing multi-agent steps, p95 latency monitoring, and programmatic hallucination detection.
-* **Browser-Native ML Experiences:** Interactive, high-performance web demos using MediaPipe, WebGL, and TypeScript.
+## 🎯 Hiring Manager TL;DR
+* 🚀 **What I Do Best:** Bridge the gap between non-deterministic AI models and strict production reliability requirements.
+* 🛠️ **Current Focus:** Multi-agent task execution loops, context-window token optimization, and real-time hallucination prevention.
+* 💼 **Availability:** Open to **AI Engineer / Backend ML Systems** positions (Remote / Hybrid).
 
 ---
 
-## 🔭 Featured Projects
+## 🛠️ Core Technical Competencies
 
-### 🧠 [omnimind-ai-os](https://github.com/mulugumanishkumar2006-del/omnimind-ai-os)
-An advanced AI Operating System engineered for persistent memory management, autonomous multi‑agent workflows, and dynamic task orchestration. 
-
-### 🛡️ [rag-sentinel](https://github.com/mulugumanishkumar2006-del/rag-sentinel)
-A specialized LLM observability toolkit featuring structural tracing, real-time p95 latency monitoring, hallucination metrics, and regression testing gates for CI/CD pipelines.
-
-### 🥷 [ai-gesture-ninja](https://github.com/mulugumanishkumar2006-del/ai-gesture-ninja)
-A high-performance, browser-native gesture-controlled game leveraging MediaPipe and TypeScript for fluid, zero-backend interactive ML UX.
-
-> **Other Notable Repositories:** `alignment-forge` · `groq-hybrid-rag` · `smart-it-helpdesk-agent`
+* **LLM Orchestration & Agents:** Multi-agent swarm design, structured state management, tool-calling validation, and stateful memory compression.
+* **Advanced RAG Pipelines:** Hybrid search (sparse/dense), context reranking, metadata pre-filtering, and dynamic chunking strategies.
+* **Guardrails & MLOps:** Real-time semantic tracing, p95 latency optimization, programmatic evaluation gates, and CI/CD regression testing.
 
 ---
 
-## ✅ Engineering Standards
-When you explore my repositories, you can consistently expect:
-* **1-Minute Quickstarts:** Comprehensive `README.md` files with deterministic local or Docker setup.
-* **Automated Quality:** Strict CI configurations (linting, static typing, and test suites) running on every PR.
-* **Production Readiness:** Clear architectural diagrams, documented design tradeoffs, and live deployment configurations (Vercel, GitHub Pages, or Docker Compose).
+## 🔭 High-Impact Projects
+
+### 🧠 [omnimind-ai-os](https://github.com/mulugumanishkumar2006-del/omnimind-ai-os) — *AI Operating System & Agent Swarm*
+An advanced multi-agent runtime designed for persistent context tracking, autonomous sub-task routing, and parallel execution chains.
+* **The Engineering Challenge:** Preventing infinite loops and context explosion during autonomous multi-step execution.
+* **Key Solutions:** Implemented strict state graph validation and token-pruning memory middleware.
+
+### 🛡️ [rag-sentinel](https://github.com/mulugumanishkumar2006-del/rag-sentinel) — *LLM Observability & Evaluation Engine*
+A specialized production-monitoring library designed to catch hallucinations and track component-level latencies in real time.
+* **The Engineering Challenge:** Programmatically detecting semantic drift in production without incurring massive evaluation API costs.
+* **Key Solutions:** Built a lightweight local embeddings evaluator integrated directly into automated GitHub Actions CI deployment gates.
+
+### 🥷 [ai-gesture-ninja](https://github.com/mulugumanishkumar2006-del/ai-gesture-ninja) — *Zero-Latency Browser ML UX*
+A high-performance interactive web application executing client-side machine learning inference directly in the browser.
+* **The Engineering Challenge:** Achieving fluid 60fps performance without overloading the main UI thread.
+* **Key Solutions:** Offloaded MediaPipe tensor computation to Web Workers using pure TypeScript.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 📈 Production Standards & Quality Assurance
+Every public repository in my portfolio adheres to strict engineering baselines:
+* **Deterministic Builds:** Fully containerized via multi-stage `Dockerfile` setups.
+* **Strict Typing & Linting:** 100% type coverage checks using `mypy` / `TypeScript strict` enforced at the PR level.
+* **Comprehensive Instrumentation:** Structured logging, OpenTelemetry-compatible tracing concepts, and decoupled system architectures.
 
-* **Languages:** Python, TypeScript, SQL, Bash
-* **Frameworks:** FastAPI, React, Streamlit, LangChain
-* **Datastores & Infra:** ChromaDB, SQLite, MongoDB, Docker
-* **DevOps & Tooling:** GitHub Actions, CI/CD, Git, VS Code
+---
+
+## 📫 Direct Access
+* 📧 **Email:** [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
+* 📄 **Resume / Portfolio:** [👉 View PDF Resume Here 👈](Your_Link_Here)
 
 ---
 
-## 📫 Let's Connect
-* **Email:** [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
-
-
----
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 📊 GitHub Analytics
 
