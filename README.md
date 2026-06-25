@@ -52,7 +52,7 @@ When you explore my repositories, you can consistently expect:
 
 ## 📫 Let's Connect
 * **Email:** [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
-* **Portfolio / Resume:** [Insert Link Here]
+
 
 ---
 
