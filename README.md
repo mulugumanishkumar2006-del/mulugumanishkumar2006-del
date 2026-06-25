@@ -55,12 +55,9 @@ Every public repository in my portfolio adheres to strict engineering baselines:
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mulugumanishkumar2006-del&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&theme=tokyonight"/>
 </p>
-
-## 📊 GitHub Analytics
-
 
 <p align="center">
   <!-- Systems & Architecture Core -->
