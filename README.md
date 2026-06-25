@@ -78,3 +78,27 @@ When you explore my repositories, you can consistently expect:
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
+
+
+
+<p align="center">
+  <!-- Systems & Architecture Core -->
+  <img src="https://img.shields.io/badge/Python_(AsyncIO)-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI_(Production)-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_/_Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</p>
+<p align="center">
+  <!-- Intelligence & Data Tier -->
+  <img src="https://img.shields.io/badge/LLM_Ops_/_LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_DB_(Chroma/Pinecone)-0052CC?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
+<p align="center">
+  <!-- Infrastructure, Guardrails & Testing -->
+  <img src="https://img.shields.io/badge/Docker_Containers-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD_(GitHub_Actions)-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Validation_(Pydantic_V2)-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testing_(PyTest/E2E)-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+</p>
