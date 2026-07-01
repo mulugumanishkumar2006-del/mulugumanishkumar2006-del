@@ -1,124 +1,73 @@
 # 👋 Hi, I'm Mulugu Maneesh Kumar
 
-### B.Tech Computer Science Engineering Student | Aspiring AI Engineer | Building Production-Ready AI Systems
+### B.Tech Computer Science Engineering Student | Aspiring AI Engineer | Backend & AI Systems Builder
 
-I am passionate about building intelligent software that solves real-world problems using Artificial Intelligence, Machine Learning, and modern backend engineering.
+I am a Computer Science student passionate about building practical AI systems and backend applications using Python, FastAPI, and modern machine learning techniques.
 
-My current focus is on developing production-ready AI applications powered by Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and scalable backend architectures.
-
-I enjoy transforming ideas into practical software through continuous learning, open-source contributions, and hands-on engineering.
+My focus is on learning how real-world AI applications are designed, built, and deployed — especially around LLMs, RAG pipelines, and AI-powered tools.
 
 ---
 
-# 🚀 What I'm Currently Building
+## 🚀 Featured Projects
 
-### 🧠 CodeAtlas
+### 🧠 CodeAtlas – AI Software Intelligence Platform
 
-AI-powered Software Intelligence Platform that helps developers understand complex codebases using AI-assisted repository analysis, architecture visualization, dependency mapping, and intelligent code insights.
+An AI-powered system that helps developers understand large codebases by analyzing structure, dependencies, and architecture.
 
-### 📚 MemoryGPT *(In Progress)*
+**Tech Stack:** Python, FastAPI, AI, LLMs, RAG, GitHub APIs
 
-An intelligent long-term memory framework for AI assistants featuring semantic search, persistent memory, context compression, and Retrieval-Augmented Generation (RAG).
+---
 
 ### 📊 Fund Performance Analytics
 
-A data analytics project focused on analyzing financial datasets, generating performance insights, creating dashboards, and supporting data-driven decision making.
+A data analytics project that analyzes financial datasets and generates insights through visualization and statistical analysis.
+
+**Tech Stack:** Python, Pandas, NumPy, Data Visualization
 
 ---
 
-# 💻 Technical Skills
+### 🔐 Bluestock Fintech Internship Work
 
-### Programming Languages
-
-* Python
-* Java
-* SQL
-* JavaScript
-* TypeScript (Learning)
-
-### Artificial Intelligence
-
-* Machine Learning
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Prompt Engineering
-* Natural Language Processing
-
-### Backend Development
-
-* FastAPI
-* REST APIs
-* Pydantic
-* Async Python
-
-### Data & Analytics
-
-* Pandas
-* NumPy
-* Matplotlib
-* Data Analysis
-* Data Visualization
-
-### Developer Tools
-
-* Git
-* GitHub
-* Docker (Learning)
-* VS Code
-* Linux
+Currently working as a Data Analytics Intern, where I analyze financial datasets and build data-driven insights using Python.
 
 ---
 
-# 🌱 Currently Learning
+## 🛠️ Technical Skills
 
-* Multi-Agent AI Systems
-* LLM Orchestration
-* AI Memory Architectures
-* MLOps Fundamentals
-* Vector Databases
-* Cloud Deployment
-* Software Architecture
-* System Design
+**Programming:** Python, Java, SQL (basic)
+**AI / ML:** Machine Learning, LLMs, RAG, Prompt Engineering
+**Backend:** FastAPI, REST APIs
+**Data:** Pandas, NumPy, Data Visualization
+**Tools:** Git, GitHub, Linux, VS Code
 
 ---
 
-# 💼 Experience
+## 📈 What I'm Focused On
 
-## Data Analytics Intern
-
-**Bluestock Fintech** *(June 2026 – Present)*
-
-* Analyze financial datasets to generate business insights.
-* Perform data cleaning and preprocessing using Python.
-* Conduct exploratory data analysis (EDA).
-* Build visualizations and reports.
-* Improve practical knowledge in analytics and software engineering.
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mulugumanishkumar2006-del&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-# 🤝 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340
-* 💻 GitHub: https://github.com/mulugumanishkumar2006-del
-* 📧 Email: [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
+* Building production-ready AI applications
+* Learning system design for AI agents
+* Improving backend engineering skills
+* Working on real-world datasets and APIs
+* Preparing for AI Engineer / Backend roles
 
 ---
 
-# ⭐ Philosophy
+## 🎯 Current Goals
 
-> "Build consistently. Learn continuously. Share openly."
+* Complete CodeAtlas (MVP + documentation)
+* Build MemoryGPT (AI memory system)
+* Contribute to open-source AI projects
+* Improve deployment and system design skills
+* Secure strong AI/ML internship or SDE role
 
-I believe great software is built through curiosity, discipline, and continuous improvement. Every project is an opportunity to learn something new and create technology that makes a meaningful impact.
+---
+
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/mulugumanishkumar2006-del
+* LinkedIn: https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340
+* Email: [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
+
+---
+
+> “Build simple. Learn deeply. Improve constantly.”
