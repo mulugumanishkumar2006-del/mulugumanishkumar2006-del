@@ -1,82 +1,123 @@
-# 👋 Hi, I’m Mulugu Manish Kumar
-**AI Systems Engineer** specializing in production-grade LLM Orchestration, RAG Architecture, and Deterministic AI Guardrails. 
+# 👋 Hi, I'm Mulugu Maneesh Kumar
 
-I don't just build wrappers; I engineer scalable, observable, and cost-optimized AI infrastructure.
+### B.Tech Computer Science Engineering Student | Aspiring AI Engineer | Building Production-Ready AI Systems
 
----
+I am passionate about building intelligent software that solves real-world problems using Artificial Intelligence, Machine Learning, and modern backend engineering.
 
-## 🎯 Hiring Manager TL;DR
-* 🚀 **What I Do Best:** Bridge the gap between non-deterministic AI models and strict production reliability requirements.
-* 🛠️ **Current Focus:** Multi-agent task execution loops, context-window token optimization, and real-time hallucination prevention.
-* 💼 **Availability:** Open to **AI Engineer / Backend ML Systems** positions (Remote / Hybrid).
+My current focus is on developing production-ready AI applications powered by Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and scalable backend architectures.
+
+I enjoy transforming ideas into practical software through continuous learning, open-source contributions, and hands-on engineering.
 
 ---
 
-## 🛠️ Core Technical Competencies
+# 🚀 What I'm Currently Building
 
-* **LLM Orchestration & Agents:** Multi-agent swarm design, structured state management, tool-calling validation, and stateful memory compression.
-* **Advanced RAG Pipelines:** Hybrid search (sparse/dense), context reranking, metadata pre-filtering, and dynamic chunking strategies.
-* **Guardrails & MLOps:** Real-time semantic tracing, p95 latency optimization, programmatic evaluation gates, and CI/CD regression testing.
+### 🧠 CodeAtlas
 
----
+AI-powered Software Intelligence Platform that helps developers understand complex codebases using AI-assisted repository analysis, architecture visualization, dependency mapping, and intelligent code insights.
 
-## 🔭 High-Impact Projects
+### 📚 MemoryGPT *(In Progress)*
 
-### 🧠 [omnimind-ai-os](https://github.com/mulugumanishkumar2006-del/omnimind-ai-os) — *AI Operating System & Agent Swarm*
-An advanced multi-agent runtime designed for persistent context tracking, autonomous sub-task routing, and parallel execution chains.
-* **The Engineering Challenge:** Preventing infinite loops and context explosion during autonomous multi-step execution.
-* **Key Solutions:** Implemented strict state graph validation and token-pruning memory middleware.
+An intelligent long-term memory framework for AI assistants featuring semantic search, persistent memory, context compression, and Retrieval-Augmented Generation (RAG).
 
-### 🛡️ [rag-sentinel](https://github.com/mulugumanishkumar2006-del/rag-sentinel) — *LLM Observability & Evaluation Engine*
-A specialized production-monitoring library designed to catch hallucinations and track component-level latencies in real time.
-* **The Engineering Challenge:** Programmatically detecting semantic drift in production without incurring massive evaluation API costs.
-* **Key Solutions:** Built a lightweight local embeddings evaluator integrated directly into automated GitHub Actions CI deployment gates.
+### 📊 Fund Performance Analytics
 
-### 🥷 [ai-gesture-ninja](https://github.com/mulugumanishkumar2006-del/ai-gesture-ninja) — *Zero-Latency Browser ML UX*
-A high-performance interactive web application executing client-side machine learning inference directly in the browser.
-* **The Engineering Challenge:** Achieving fluid 60fps performance without overloading the main UI thread.
-* **Key Solutions:** Offloaded MediaPipe tensor computation to Web Workers using pure TypeScript.
+A data analytics project focused on analyzing financial datasets, generating performance insights, creating dashboards, and supporting data-driven decision making.
 
 ---
 
-## 📈 Production Standards & Quality Assurance
-Every public repository in my portfolio adheres to strict engineering baselines:
-* **Deterministic Builds:** Fully containerized via multi-stage `Dockerfile` setups.
-* **Strict Typing & Linting:** 100% type coverage checks using `mypy` / `TypeScript strict` enforced at the PR level.
-* **Comprehensive Instrumentation:** Structured logging, OpenTelemetry-compatible tracing concepts, and decoupled system architectures.
+# 💻 Technical Skills
+
+### Programming Languages
+
+* Python
+* Java
+* SQL
+* JavaScript
+* TypeScript (Learning)
+
+### Artificial Intelligence
+
+* Machine Learning
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Prompt Engineering
+* Natural Language Processing
+
+### Backend Development
+
+* FastAPI
+* REST APIs
+* Pydantic
+* Async Python
+
+### Data & Analytics
+
+* Pandas
+* NumPy
+* Matplotlib
+* Data Analysis
+* Data Visualization
+
+### Developer Tools
+
+* Git
+* GitHub
+* Docker (Learning)
+* VS Code
+* Linux
 
 ---
 
-## 📫 Direct Access
-* 📧 **Email:** [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
-* 📄 **Resume / Portfolio:** [👉 View PDF Resume Here 👈](Your_Link_Here)
+# 🌱 Currently Learning
+
+* Multi-Agent AI Systems
+* LLM Orchestration
+* AI Memory Architectures
+* MLOps Fundamentals
+* Vector Databases
+* Cloud Deployment
+* Software Architecture
+* System Design
 
 ---
 
-## 📊 GitHub Analytics
+# 💼 Experience
+
+## Data Analytics Intern
+
+**Bluestock Fintech** *(June 2026 – Present)*
+
+* Analyze financial datasets to generate business insights.
+* Perform data cleaning and preprocessing using Python.
+* Conduct exploratory data analysis (EDA).
+* Build visualizations and reports.
+* Improve practical knowledge in analytics and software engineering.
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mulugumanishkumar2006-del&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mulugumanishkumar2006-del&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <!-- Systems & Architecture Core -->
-  <img src="https://img.shields.io/badge/Python_(AsyncIO)-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI_(Production)-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_/_Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Intelligence & Data Tier -->
-  <img src="https://img.shields.io/badge/LLM_Ops_/_LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_DB_(Chroma/Pinecone)-0052CC?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
-<p align="center">
-  <!-- Infrastructure, Guardrails & Testing -->
-  <img src="https://img.shields.io/badge/Docker_Containers-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD_(GitHub_Actions)-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Validation_(Pydantic_V2)-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Testing_(PyTest/E2E)-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-</p>
+---
+
+# 🤝 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340
+* 💻 GitHub: https://github.com/mulugumanishkumar2006-del
+* 📧 Email: [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
+
+---
+
+# ⭐ Philosophy
+
+> "Build consistently. Learn continuously. Share openly."
+
+I believe great software is built through curiosity, discipline, and continuous improvement. Every project is an opportunity to learn something new and create technology that makes a meaningful impact.
