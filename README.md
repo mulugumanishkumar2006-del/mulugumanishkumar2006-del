@@ -114,6 +114,10 @@ A data analytics project focused on analyzing financial datasets, generating per
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
 # ⭐ Philosophy
 
 > "Build consistently. Learn continuously. Share openly."
