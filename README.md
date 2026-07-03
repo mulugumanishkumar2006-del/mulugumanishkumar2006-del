@@ -93,6 +93,7 @@ An AI-driven platform that parses large repositories to map architectures, analy
 │ User Query (NL) │ ──>  │ RAG Pipeline  │ <──  ┌──────────────────┐
 └─────────────────┘      └───────────────┘      │ Vector Database  │
                                                 └──────────────────┘
+
 ## 🤝 Connect With Me
 
 * **GitHub:** [github.com/mulugumanishkumar2006-del](https://github.com/mulugumanishkumar2006-del)
@@ -101,4 +102,5 @@ An AI-driven platform that parses large repositories to map architectures, analy
 
 ---
 
+> "Build simple. Learn deeply. Improve constantly."  preview like these contact details
 > "Build simple. Learn deeply. Improve constantly."
