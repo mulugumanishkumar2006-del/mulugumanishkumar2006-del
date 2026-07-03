@@ -74,10 +74,7 @@ A financial data analytics engine designed to ingest raw market datasets, perfor
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulugumanishkumar2006-del&theme=radical&hide_border=true" alt="Maneesh's Commit Streak" width="100%"/>
 </p>
 
-<!-- Dynamic Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mulugumanishkumar2006-del&theme=github-dark-v2&bg_color=141517&hide_border=true" alt="Maneesh's Activity Graph" width="100%"/>
-</p>
+
 
 ## 🚀 Featured Systems & Projects
 
