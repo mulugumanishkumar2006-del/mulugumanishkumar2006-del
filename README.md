@@ -79,6 +79,18 @@ A financial data analytics engine designed to ingest raw market datasets, perfor
     </td>
   </tr>
 </table>
+
+## 📈 Live Development Activity & Commits
+
+<!-- Total Commits & Streak Tracker -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulugumanishkumar2006-del&theme=radical&hide_border=true" alt="Maneesh's Commit Streak" width="100%"/>
+</p>
+
+<!-- Visual Achievements Tracker -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mulugumanishkumar2006-del&theme=radical&no-bg=true&column=4" alt="Maneesh's Trophies" />
+</p>
 ## 🚀 Featured Systems & Projects
 
 ### 🧠 CodeAtlas – AI Software Intelligence Platform
