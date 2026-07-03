@@ -83,7 +83,7 @@ An AI-driven platform that parses large repositories to map architectures, analy
 * **Architecture:** Implemented a chunking strategy optimized for code syntax and an advanced RAG pipeline to allow natural language querying over complex codebases.
 * **Tech Stack:** Python, FastAPI, LangChain, Vector Databases, Git/GitHub APIs.
 
-```text
+
 [System Pipeline]
 ┌─────────────────┐      ┌───────────────┐      ┌──────────────────┐
 │ Repository URI  │ ──>  │  AST Parsing  │ ──>  │ Chunking Strategy│
