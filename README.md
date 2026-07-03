@@ -65,7 +65,20 @@ A financial data analytics engine designed to ingest raw market datasets, perfor
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 📈 Live Development Activity & Commits
 
+<table>
+  <tr>
+    <td width="50%">
+      <!-- Total Commits & Streak Tracker -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulugumanishkumar2006-del&theme=radical&hide_border=true" alt="Maneesh's Commit Streak" width="100%"/>
+    </td>
+    <td width="50%">
+      <!-- Visual Achievements Tracker -->
+      <img src="https://github-profile-trophy.vercel.app/?username=mulugumanishkumar2006-del&theme=radical&column=3&margin-w=15&margin-h=15&no-bg=true" alt="Maneesh's Trophies" width="100%"/>
+    </td>
+  </tr>
+</table>
 ## 🚀 Featured Systems & Projects
 
 ### 🧠 CodeAtlas – AI Software Intelligence Platform
