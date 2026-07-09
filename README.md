@@ -1,106 +1,68 @@
-# 👋 Hi, I'm Mulugu Maneesh Kumar
+<h1 align="center">Hi, I'm Maneesh Kumar 👋</h1>
+<h3 align="center">CS Undergrad specializing in AI & ML | Aspiring AI/ML & Data Analytics Intern</h3>
 
-### Backend & AI Systems Builder | B.Tech Computer Science Engineering Student
-
-I engineer high-performance backend applications and practical AI systems. My focus centers on production-ready LLM implementation, advanced Retrieval-Augmented Generation (RAG) architectures, and robust API development using Python and FastAPI.
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 CodeAtlas – AI Software Intelligence Platform
-An AI-driven platform that parses large repositories to map architectures, analyze abstract syntax trees (ASTs), and handle structural dependency resolution via semantic code search.
-* **Architecture:** Implemented a chunking strategy optimized for code syntax and an advanced RAG pipeline to allow natural language querying over complex codebases.
-* **Tech Stack:** Python, FastAPI, LangChain, Vector Databases, Git/GitHub APIs, REST Architecture.
-
-### 📊 Fund Performance Analytics
-A financial data analytics engine designed to ingest raw market datasets, perform statistical analysis, and generate risk-adjusted return metrics.
-* **Key Achievements:** Automated data cleaning pipelines and optimized computation times for large arrays using vectorized operations.
-* **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn.
-
----
-
-## 🛠️ Technical Skills
-
-* **Languages:** Python (Advanced), Java, SQL
-* **AI & Engineering:** LLMs, Advanced RAG Pipelines, Prompt Engineering, Semantic Search
-* **Backend Development:** FastAPI, RESTful API Design, System Architecture
-* **Data Science:** Pandas, NumPy, Data Pipeline Engineering, Statistical Visualization
-* **Tools & Environment:** Git, GitHub Actions, Linux, VS Code
-
----
-
-## 📈 Engineering Focus & Core Interests
-
-* **Production AI:** Deploying scalable, low-latency LLM applications and managing context windows efficiently.
-* **Agentic Memory Systems:** Designing context-retention mechanisms and semantic history storage for AI systems.
-* **Backend Systems:** Building resilient microservices, optimizing database queries, and practicing clean architecture.
-
----
-
-## 🎯 Current Technical Goals
-
-* **CodeAtlas (MVP):** Finalize structural dependency graph visualizations and release public documentation.
-* **MemoryGPT:** Build a lightweight, persistent AI memory framework utilizing time-weighted semantic retrieval.
-* **Industry Impact:** Secure a high-impact AI/ML Engineering or Core Backend SDE role.
-
----
-## 🛠️ Technical Stack & Ecosystem
-
-### 🚀 Languages & Core Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3A?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 📊 Data Engineering & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚙️ DevOps & Environment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-
-## 📈 Live Development Activity & Commits
-
-<!-- Total Commits & Streak Tracker -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulugumanishkumar2006-del&theme=radical&hide_border=true" alt="Maneesh's Commit Streak" width="100%"/>
+  <a href="https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mulugumanishkumar2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
 
+### About Me
 
-## 🚀 Featured Systems & Projects
+I'm a Computer Science (AI & ML) undergraduate at Sir Padampat Singhania University, learning by building real, working projects rather than just following tutorials. My focus right now is on data analytics, machine learning fundamentals, and applied LLM/Generative AI work — cleaning real datasets, training and evaluating models, and experimenting with prompt engineering and RAG.
 
-### 🧠 CodeAtlas – AI Software Intelligence Platform
-An AI-driven platform that parses large repositories to map architectures, analyze abstract syntax trees (ASTs), and handle structural dependency resolution via semantic code search.
-* **Architecture:** Implemented a chunking strategy optimized for code syntax and an advanced RAG pipeline to allow natural language querying over complex codebases.
-* **Tech Stack:** Python, FastAPI, LangChain, Vector Databases, Git/GitHub APIs.
+I've picked up hands-on experience through three internships (Bluestock Fintech, Deccan AI, Innovexis), where I worked on financial data analysis, physical AI data collection, and foundational engineering practices under mentor guidance.
 
-
-[System Pipeline]
-┌─────────────────┐      ┌───────────────┐      ┌──────────────────┐
-│ Repository URI  │ ──>  │  AST Parsing  │ ──>  │ Chunking Strategy│
-└─────────────────┘      └───────────────┘      └──────────────────┘
-                                                          │
-┌─────────────────┐      ┌───────────────┐                ▼
-│ User Query (NL) │ ──>  │ RAG Pipeline  │ <──  ┌──────────────────┐
-└─────────────────┘      └───────────────┘      │ Vector Database  │
-                                                └──────────────────┘
-
-## 🤝 Connect With Me
-
-* **GitHub:** [github.com/mulugumanishkumar2006-del](https://github.com/mulugumanishkumar2006-del)
-* **LinkedIn:** [linkedin.com/in/mulugu-maneesh-kumar-b76962340](https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340)
-* **Email:** [mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)
+I'm currently looking for a Software Engineering / AI-ML internship where I can keep building things end-to-end and learn fast from experienced engineers.
 
 ---
 
-> "Build simple. Learn deeply. Improve constantly."  preview like these contact details
-> "Build simple. Learn deeply. Improve constantly."
+### 🧰 Tech Stack
+
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML / Data:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![OCI](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+> Note: I'm actively rebuilding and deepening these — check individual repos for current status and live demos.
+
+**[Financial Analytics & Data Pipeline Platform](#)**
+An object-oriented Python pipeline that automates collection, cleaning, and preprocessing of financial datasets, with SQL-backed storage and EDA/visualizations to surface trends.
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib`
+
+**[Real-Time Gesture Recognition System](#)**
+A gesture detection application using classic ML classification on webcam input, with filtering to reduce noise from real-world video and improve prediction accuracy.
+`Python` `OOP` `Computer Vision` `scikit-learn`
+
+**[AI Workspace & Prompt-Driven Automation](#)**
+An experiment in structuring LLM-powered workflows — writing and iterating on system prompts to make multi-step task automation more reliable and consistent.
+`Python` `LLMs` `Prompt Engineering`
+
+---
+
+### 🎓 Certifications
+
+- Google Cloud Gen AI Academy, APAC Edition — *Google Cloud (Mar 2026)*
+- Oracle Cloud Infrastructure (OCI) Foundations Associate & Generative AI Certification — *Oracle*
+- Data Analytics Job Simulation — *Deloitte*
+- Data Preprocessing & Data Handling — *L&T EduTech*
+- Participant — AI Startup Buildathon 2026, iDEA 2.0 Fintech Hackathon
+
+---
+
+### 📫 Reach Me
+
+- Email: mulugumanishkumar2006@gmail.com
+- LinkedIn: [mulugu-maneesh-kumar](https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340)
+
+<p align="center"><i>Always open to feedback, collaboration, and internship opportunities.</i></p>
