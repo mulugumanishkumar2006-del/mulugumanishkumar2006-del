@@ -15,9 +15,7 @@ AI/ML Engineer in the making · I build products, not just models
   </a>
 </p>
 
-<p align="center">
-  🎯 Actively looking for <b>SDE / AI-ML Engineer</b> roles at product-based companies
-</p>
+
 
 ---
 
