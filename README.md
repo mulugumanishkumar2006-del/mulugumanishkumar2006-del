@@ -62,19 +62,19 @@ Built SQL-based ETL workflows and preprocessing pipelines for financial datasets
 
 ### 🚀 Featured Projects
 
-#### 🗺️ [CodeAtlas](https://github.com/YOUR_GITHUB_USERNAME/codeatlas)
+#### 🗺️ [CodeAtlas](https://github.com/mulugumanishkumar2006-del/CodeAtlas)
 AI-powered software intelligence platform that converts repositories into interactive architecture maps using LLMs — built to help engineers understand unfamiliar codebases in minutes instead of days.
 **Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · LLMs
 
-#### 🤖 [Hybrid RAG System](https://github.com/YOUR_GITHUB_USERNAME/hybrid-rag)
+#### 🤖 [Hybrid RAG System](https://github.com/mulugumanishkumar2006-del/groq-hybrid-rag)
 Retrieval-Augmented Generation pipeline combining semantic (FAISS) and keyword (BM25) search to reduce hallucinations and improve answer relevance for AI-assisted Q&A.
 **Tech:** Python · LangChain · FAISS · BM25 · Groq
 
-#### 🔒 [Secure AI Firewall](https://github.com/YOUR_GITHUB_USERNAME/secure-ai-firewall)
+#### 🔒 [Secure AI Firewall](https://github.com/mulugumanishkumar2006-del/secure-ai-firewall-system)
 Security layer for LLM applications that detects and blocks prompt-injection attacks in real time, designed as a drop-in middleware for production LLM apps.
 **Tech:** Python · LLM Security · Prompt Engineering
 
-#### 📈 [Financial Intelligence Platform](https://github.com/YOUR_GITHUB_USERNAME/financial-intelligence-platform)
+#### 📈 [Financial Intelligence Platform](https://github.com/mulugumanishkumar2006-del/nifty100-financial-intelligence-platform)
 End-to-end analytics platform with ETL pipelines, SQL integration, and dashboards for exploring and reporting on financial datasets.
 **Tech:** Python · SQL · Pandas · NumPy · Matplotlib
 
