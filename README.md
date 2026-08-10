@@ -10,7 +10,7 @@ AI/ML Engineer in the making · I build products, not just models
   <a href="mailto:mulugumanishkumar2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mulugumanishkumar2006-del">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
