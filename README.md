@@ -21,12 +21,18 @@ AI/ML Engineer in the making · I build products, not just models
 
 ### 🧭 About Me
 
-I'm a pre-final year B.Tech CS (AI & ML) student at **Sir Padampat Singhania University**, focused on shipping full-stack AI products — not just training notebooks. I like taking an idea from "does this even work?" to a deployed system with an API, a UI, and real users.
+I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on building **AI-powered products and production-ready software**.
 
-- 🔭 Currently building **CodeAtlas** — an LLM-powered tool that turns codebases into interactive architecture maps
-- 🌱 Deepening my skills in **system design** and **production ML/LLM infrastructure**
-- 💬 Ask me about RAG pipelines, LLM security, or backend architecture
-- ⚡ Fun fact: I'd rather debug a race condition than watch a movie
+I work across **AI/ML, LLMs, RAG, AI agents, backend engineering, and system design** — turning ideas into real applications with APIs, intelligent models, scalable infrastructure, and usable interfaces.
+
+🔭 **Currently building [CodeAtlas]** — an LLM-powered developer intelligence platform that transforms codebases into interactive architecture maps.
+
+🌱 Exploring **AI/ML Engineering • LLM Applications • AI Agents • RAG • Backend Systems • ML Infrastructure • System Design**
+
+💡 Interested in **AI Engineer, ML Engineer, AI/ML Engineer, and Software Engineer** roles.
+
+⚡ **Build → Engineer → Deploy → Improve.** I enjoy taking ideas from a prototype to production.
+
 
 **Experience**
 **Data Analyst Intern — Bluestock Fintech**
