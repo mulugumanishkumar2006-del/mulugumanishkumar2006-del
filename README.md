@@ -1,113 +1,190 @@
-<h1 align="center">Hi, I'm Maneesh Kumar 👋</h1>
-<h3 align="center">
-AI/ML Engineer in the making · I build products, not just models
-</h3>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mulugumanishkumar2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mulugumanishkumar2006-del">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=200&section=header&text=Maneesh%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20the%20making&descAlignY=58&descSize=20" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=I+build+products%2C+not+just+models;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents;Backend+%C2%B7+System+Design+%C2%B7+ML+Infra;Build+%E2%86%92+Engineer+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
+</a>
 
-### 🧭 About Me
+<br/><br/>
 
-I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on building **AI-powered products and production-ready software**.
+<a href="https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mulugumanishkumar2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/mulugumanishkumar2006-del">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I work across **AI/ML, LLMs, RAG, AI agents, backend engineering, and system design**, turning ideas into real applications with APIs, intelligent models, scalable infrastructure, and usable interfaces.
+<br/><br/>
 
-- 🔭 **Currently building [CodeAtlas](https://github.com/mulugumanishkumar2006-del/CodeAtlas)**, an LLM-powered developer intelligence platform that turns codebases into interactive architecture maps
-- 🌱 **Exploring:** LLM Applications · AI Agents · RAG · Backend Systems · ML Infrastructure · System Design
-- 💡 **Open to roles:** AI Engineer · ML Engineer · AI/ML Engineer · Software Engineer
-- ⚡ **How I work:** Build → Engineer → Deploy → Improve. I like taking ideas from prototype to production.
+<img src="https://komarev.com/ghpvc/?username=mulugumanishkumar2006-del&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views"/>
 
----
+</div>
 
-### 💼 Experience
+<br/>
 
-**Data Analyst Intern · Bluestock Fintech**
-Built SQL-based ETL workflows and preprocessing pipelines for financial datasets, working with mentors to turn raw data into analysis-ready reports.
+<!-- ============ ABOUT ============ -->
+## 🧭 About Me
 
----
+I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on building **AI-powered products and production-ready software**. I work across **AI/ML, LLMs, RAG, AI agents, backend engineering, and system design**, turning ideas into real applications with APIs, intelligent models, scalable infrastructure, and usable interfaces.
 
-### 🛠 Tech Stack
+| | |
+|---|---|
+| 🔭 **Building** | [**CodeAtlas**](https://github.com/mulugumanishkumar2006-del/CodeAtlas), an LLM-powered platform that turns codebases into interactive architecture maps |
+| 🌱 **Exploring** | LLM Applications · AI Agents · RAG · Backend Systems · ML Infrastructure · System Design |
+| 💡 **Open to** | AI Engineer · ML Engineer · AI/ML Engineer · Software Engineer roles |
+| ⚡ **Mindset** | Build → Engineer → Deploy → Improve, from prototype to production |
 
-**Languages**<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br/>
 
-**AI / ML**<br>
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<!-- ============ EXPERIENCE ============ -->
+## 💼 Experience
 
-**Backend & Infra**<br>
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OCI](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+<table>
+  <tr>
+    <td width="170" align="center">
+      <img src="https://img.shields.io/badge/Bluestock-Fintech-0A66C2?style=for-the-badge"/>
+    </td>
+    <td>
+      <b>Data Analyst Intern</b><br/>
+      Built SQL-based ETL workflows and preprocessing pipelines for financial datasets, working with mentors to turn raw data into analysis-ready reports.
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 🚀 Featured Projects
+<!-- ============ TECH STACK ============ -->
+## 🛠 Tech Stack
 
-#### 🗺️ [CodeAtlas](https://github.com/mulugumanishkumar2006-del/CodeAtlas)
-AI-powered software intelligence platform that converts repositories into interactive architecture maps using LLMs, built to help engineers understand unfamiliar codebases in minutes instead of days.
-**Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · LLMs
+<div align="center">
 
-#### 🤖 [Hybrid RAG System](https://github.com/mulugumanishkumar2006-del/groq-hybrid-rag)
-Retrieval-Augmented Generation pipeline combining semantic (FAISS) and keyword (BM25) search to reduce hallucinations and improve answer relevance for AI-assisted Q&A.
-**Tech:** Python · LangChain · FAISS · BM25 · Groq
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,fastapi,postgres,docker,git,pytorch,tensorflow,numpy,pandas,sklearn&perline=7" alt="Tech stack icons"/>
 
-#### 🔒 [Secure AI Firewall](https://github.com/mulugumanishkumar2006-del/secure-ai-firewall-system)
-Security layer for LLM applications that detects and blocks prompt-injection attacks in real time, designed as drop-in middleware for production LLM apps.
-**Tech:** Python · LLM Security · Prompt Engineering
+<br/><br/>
 
-#### 📈 [Financial Intelligence Platform](https://github.com/mulugumanishkumar2006-del/nifty100-financial-intelligence-platform)
-End-to-end analytics platform with ETL pipelines, SQL integration, and dashboards for exploring and reporting on financial datasets.
-**Tech:** Python · SQL · Pandas · NumPy · Matplotlib
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
----
+</div>
 
-### 🏆 Certifications
+<details>
+<summary><b>See stack by category</b></summary>
+<br/>
 
-- Google Cloud Gen AI Academy (APAC)
-- Oracle Cloud Infrastructure Foundations Associate
-- Oracle Generative AI Professional
-- Deloitte Data Analytics Job Simulation
-- L&T EduTech: Data Handling & Preprocessing
+| Category | Tools |
+|---|---|
+| **Languages** | Python · SQL · C++ · JavaScript · TypeScript |
+| **AI / ML** | NumPy · Pandas · scikit-learn · TensorFlow · PyTorch · LangChain |
+| **Backend & Infra** | FastAPI · PostgreSQL · Docker · Git · Oracle Cloud (OCI) |
 
----
+</details>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mulugumanishkumar2006-del&hide_border=true"/>
-</p>
+<!-- ============ PROJECTS ============ -->
+## 🚀 Featured Projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/mulugumanishkumar2006-del/CodeAtlas">CodeAtlas</a></h3>
+      Converts repositories into interactive architecture maps using LLMs, so engineers can understand unfamiliar codebases in minutes instead of days.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLMs-6A11CB?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/mulugumanishkumar2006-del/groq-hybrid-rag">Hybrid RAG System</a></h3>
+      Retrieval pipeline combining semantic (FAISS) and keyword (BM25) search to reduce hallucinations and improve answer relevance for AI-assisted Q&amp;A.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/BM25-555555?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔒 <a href="https://github.com/mulugumanishkumar2006-del/secure-ai-firewall-system">Secure AI Firewall</a></h3>
+      Security layer for LLM applications that detects and blocks prompt-injection attacks in real time, designed as drop-in middleware for production apps.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLM%20Security-B00020?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-6A11CB?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/mulugumanishkumar2006-del/nifty100-financial-intelligence-platform">Financial Intelligence Platform</a></h3>
+      End-to-end analytics platform with ETL pipelines, SQL integration, and dashboards for exploring and reporting on financial datasets.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
-### 📫 Let's Connect
+<br/>
 
-📧 **[mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)**
-💼 **[LinkedIn](https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340)**
+<!-- ============ CERTIFICATIONS ============ -->
+## 🏆 Certifications
 
-<p align="center"><i>Building AI applications, exploring new tech, and shipping.</i></p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Gen%20AI%20Academy%20(APAC)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-86BC25?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/L%26T%20EduTech-Data%20Handling%20%26%20Preprocessing-0A66C2?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<!-- ============ STATS ============ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mulugumanishkumar2006-del&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mulugumanishkumar2006-del&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ============ CONTACT ============ -->
+## 📫 Let's Connect
+
+<div align="center">
+
+📧 **[mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340)**
+
+<br/>
+
+<i>Building AI applications, exploring new tech, and shipping.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:0A66C2&height=100&section=footer" width="100%"/>
+
+</div>
