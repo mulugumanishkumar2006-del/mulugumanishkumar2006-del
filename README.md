@@ -15,49 +15,46 @@ AI/ML Engineer in the making · I build products, not just models
   </a>
 </p>
 
-
-
 ---
 
 ### 🧭 About Me
 
 I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on building **AI-powered products and production-ready software**.
 
-I work across **AI/ML, LLMs, RAG, AI agents, backend engineering, and system design** — turning ideas into real applications with APIs, intelligent models, scalable infrastructure, and usable interfaces.
+I work across **AI/ML, LLMs, RAG, AI agents, backend engineering, and system design**, turning ideas into real applications with APIs, intelligent models, scalable infrastructure, and usable interfaces.
 
-🔭 **Currently building [CodeAtlas]** — an LLM-powered developer intelligence platform that transforms codebases into interactive architecture maps.
+- 🔭 **Currently building [CodeAtlas](https://github.com/mulugumanishkumar2006-del/CodeAtlas)**, an LLM-powered developer intelligence platform that turns codebases into interactive architecture maps
+- 🌱 **Exploring:** LLM Applications · AI Agents · RAG · Backend Systems · ML Infrastructure · System Design
+- 💡 **Open to roles:** AI Engineer · ML Engineer · AI/ML Engineer · Software Engineer
+- ⚡ **How I work:** Build → Engineer → Deploy → Improve. I like taking ideas from prototype to production.
 
-🌱 Exploring **AI/ML Engineering • LLM Applications • AI Agents • RAG • Backend Systems • ML Infrastructure • System Design**
+---
 
-💡 Interested in **AI Engineer, ML Engineer, AI/ML Engineer, and Software Engineer** roles.
+### 💼 Experience
 
-⚡ **Build → Engineer → Deploy → Improve.** I enjoy taking ideas from a prototype to production.
-
-
-**Experience**
-**Data Analyst Intern — Bluestock Fintech**
-Built SQL-based ETL workflows and preprocessing pipelines for financial datasets, partnering with mentors to turn raw data into analysis-ready reports.
+**Data Analyst Intern · Bluestock Fintech**
+Built SQL-based ETL workflows and preprocessing pipelines for financial datasets, working with mentors to turn raw data into analysis-ready reports.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
+**Languages**<br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**AI / ML**
+**AI / ML**<br>
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Backend & Infra**
+**Backend & Infra**<br>
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -69,7 +66,7 @@ Built SQL-based ETL workflows and preprocessing pipelines for financial datasets
 ### 🚀 Featured Projects
 
 #### 🗺️ [CodeAtlas](https://github.com/mulugumanishkumar2006-del/CodeAtlas)
-AI-powered software intelligence platform that converts repositories into interactive architecture maps using LLMs — built to help engineers understand unfamiliar codebases in minutes instead of days.
+AI-powered software intelligence platform that converts repositories into interactive architecture maps using LLMs, built to help engineers understand unfamiliar codebases in minutes instead of days.
 **Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · LLMs
 
 #### 🤖 [Hybrid RAG System](https://github.com/mulugumanishkumar2006-del/groq-hybrid-rag)
@@ -77,13 +74,12 @@ Retrieval-Augmented Generation pipeline combining semantic (FAISS) and keyword (
 **Tech:** Python · LangChain · FAISS · BM25 · Groq
 
 #### 🔒 [Secure AI Firewall](https://github.com/mulugumanishkumar2006-del/secure-ai-firewall-system)
-Security layer for LLM applications that detects and blocks prompt-injection attacks in real time, designed as a drop-in middleware for production LLM apps.
+Security layer for LLM applications that detects and blocks prompt-injection attacks in real time, designed as drop-in middleware for production LLM apps.
 **Tech:** Python · LLM Security · Prompt Engineering
 
 #### 📈 [Financial Intelligence Platform](https://github.com/mulugumanishkumar2006-del/nifty100-financial-intelligence-platform)
 End-to-end analytics platform with ETL pipelines, SQL integration, and dashboards for exploring and reporting on financial datasets.
 **Tech:** Python · SQL · Pandas · NumPy · Matplotlib
-
 
 ---
 
@@ -93,25 +89,25 @@ End-to-end analytics platform with ETL pipelines, SQL integration, and dashboard
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Generative AI Professional
 - Deloitte Data Analytics Job Simulation
-- L&T EduTech — Data Handling & Preprocessing
+- L&T EduTech: Data Handling & Preprocessing
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mulugumanishkumar2006-del&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulugumanishkumar2006-del&layout=compact&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=mulugumanishkumar2006-del&hide_border=true"/>
 </p>
 
 ---
 
-### 📫lets connect
+### 📫 Let's Connect
 
-📧 **mulugumanishkumar2006@gmail.com**
+📧 **[mulugumanishkumar2006@gmail.com](mailto:mulugumanishkumar2006@gmail.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/mulugu-maneesh-kumar-b76962340)**
 
 <p align="center"><i>Building AI applications, exploring new tech, and shipping.</i></p>
