@@ -1,11 +1,15 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=200&section=header&text=Maneesh%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20the%20making&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A11CB&height=210&section=header&text=Maneesh%20Kumar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20Apps%20%C2%B7%20Backend%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=I+build+products%2C+not+just+models;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents;Backend+%C2%B7+System+Design+%C2%B7+ML+Infra;Build+%E2%86%92+Engineer+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=I+build+products%2C+not+just+models;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LLM+Security;From+prototype+to+production;Open+to+AI%2FML+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-AI%20%2F%20ML%20Engineer%20roles-2EA44F?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -18,6 +22,14 @@
 <a href="https://github.com/mulugumanishkumar2006-del">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<!-- TODO: uncomment and add your links
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/Resume-Download-6A11CB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+-->
 
 <br/><br/>
 
@@ -30,18 +42,49 @@
 <!-- ============ ABOUT ============ -->
 ## 🧭 About Me
 
-I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on building **AI-powered products and production-ready software**. I work across **AI/ML, LLMs, RAG, AI agents, backend engineering, and system design**, turning ideas into real applications with APIs, intelligent models, scalable infrastructure, and usable interfaces.
+I'm a pre-final year **B.Tech Computer Science (AI & ML)** student who builds **AI-powered products and production-ready software**. I don't stop at a notebook: I wrap models in APIs, add retrieval, security and data pipelines, and ship interfaces people can actually use.
 
 | | |
 |---|---|
 | 🔭 **Building** | [**CodeAtlas**](https://github.com/mulugumanishkumar2006-del/CodeAtlas), an LLM-powered platform that turns codebases into interactive architecture maps |
 | 🌱 **Exploring** | LLM Applications · AI Agents · RAG · Backend Systems · ML Infrastructure · System Design |
-| 💡 **Open to** | AI Engineer · ML Engineer · AI/ML Engineer · Software Engineer roles |
-| ⚡ **Mindset** | Build → Engineer → Deploy → Improve, from prototype to production |
+| 💡 **Open to** | AI Engineer · ML Engineer · AI/ML Engineer · Software Engineer |
+| ⚡ **Mindset** | Build → Engineer → Deploy → Improve |
+| 💬 **Ask me about** | RAG pipelines · prompt-injection defense · ETL & data prep · FastAPI backends |
 
 <br/>
 
-<!-- ============ EXPERIENCE ============ -->
+<!-- ============ WHAT I DO ============ -->
+## 🎯 What I Do
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>🧠</h3>
+      <b>LLM Applications</b><br/>
+      RAG, agents and tool-using assistants grounded in real data
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>⚙️</h3>
+      <b>Backend Engineering</b><br/>
+      FastAPI services, PostgreSQL, Dockerized deployments
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>🔒</h3>
+      <b>LLM Security</b><br/>
+      Prompt-injection detection and guardrails for production apps
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>📊</h3>
+      <b>Data Pipelines</b><br/>
+      SQL ETL, preprocessing and analysis-ready reporting
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ EXPERIENCE + EDUCATION ============ -->
 ## 💼 Experience
 
 <table>
@@ -52,6 +95,25 @@ I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on bu
     <td>
       <b>Data Analyst Intern</b><br/>
       Built SQL-based ETL workflows and preprocessing pipelines for financial datasets, working with mentors to turn raw data into analysis-ready reports.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ETL-6A11CB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td width="170" align="center">
+      <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-6A11CB?style=for-the-badge"/>
+    </td>
+    <td>
+      <b>B.Tech, Computer Science (AI &amp; ML)</b><br/>
+      Pre-final year<!-- TODO: add college name and expected graduation year, e.g. "· Your College · 2027" -->
     </td>
   </tr>
 </table>
@@ -81,8 +143,9 @@ I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on bu
 | Category | Tools |
 |---|---|
 | **Languages** | Python · SQL · C++ · JavaScript · TypeScript |
-| **AI / ML** | NumPy · Pandas · scikit-learn · TensorFlow · PyTorch · LangChain |
+| **AI / ML** | NumPy · Pandas · scikit-learn · TensorFlow · PyTorch · LangChain · FAISS · BM25 |
 | **Backend & Infra** | FastAPI · PostgreSQL · Docker · Git · Oracle Cloud (OCI) |
+| **Frontend** | React · TypeScript |
 
 </details>
 
@@ -137,6 +200,45 @@ I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on bu
   </tr>
 </table>
 
+<details>
+<summary><b>🔍 How my flagship projects work (architecture)</b></summary>
+<br/>
+
+**CodeAtlas**
+
+```mermaid
+flowchart LR
+    A[GitHub Repo] --> B[Parse & Index Code]
+    B --> C[LLM Analysis]
+    C --> D[(PostgreSQL)]
+    D --> E[FastAPI Backend]
+    E --> F[React + TS Interactive Map]
+```
+
+**Hybrid RAG System**
+
+```mermaid
+flowchart LR
+    Q[User Query] --> S[Semantic Search<br/>FAISS]
+    Q --> K[Keyword Search<br/>BM25]
+    S --> M[Merge & Rank]
+    K --> M
+    M --> L[Groq LLM]
+    L --> R[Grounded Answer]
+```
+
+**Secure AI Firewall**
+
+```mermaid
+flowchart LR
+    U[User Input] --> D{Prompt-Injection<br/>Detector}
+    D -- safe --> L[LLM App]
+    D -- malicious --> X[Blocked + Logged]
+    L --> O[Response]
+```
+
+</details>
+
 <br/>
 
 <!-- ============ CERTIFICATIONS ============ -->
@@ -151,6 +253,18 @@ I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on bu
 <img src="https://img.shields.io/badge/L%26T%20EduTech-Data%20Handling%20%26%20Preprocessing-0A66C2?style=for-the-badge"/>
 
 </div>
+
+<br/>
+
+<!-- ============ ROADMAP ============ -->
+## 🌱 Currently Leveling Up
+
+- [x] Production RAG with hybrid retrieval
+- [x] LLM security and prompt-injection defense
+- [ ] Shipping CodeAtlas to real users
+- [ ] AI agents with tool use and evaluation
+- [ ] ML infrastructure and deployment at scale
+- [ ] Deeper system design (caching, queues, observability)
 
 <br/>
 
@@ -175,7 +289,9 @@ I'm a pre-final year **B.Tech Computer Science (AI & ML)** student focused on bu
 <br/>
 
 <!-- ============ CONTACT ============ -->
-## 📫 Let's Connect
+## 🤝 Let's Build Something
+
+I'm looking for **AI/ML Engineer, ML Engineer and Software Engineer** opportunities (internships and full-time), and I'm always up for collaborating on LLM, RAG and agent projects. If you're hiring or have an idea, reach out.
 
 <div align="center">
 
