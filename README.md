@@ -57,30 +57,6 @@ I'm a pre-final year **B.Tech Computer Science (AI & ML)** student who builds **
 <!-- ============ WHAT I DO ============ -->
 ## 🎯 What I Do
 
-<table>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <h3>🧠</h3>
-      <b>LLM Applications</b><br/>
-      RAG, agents and tool-using assistants grounded in real data
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>⚙️</h3>
-      <b>Backend Engineering</b><br/>
-      FastAPI services, PostgreSQL, Dockerized deployments
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>🔒</h3>
-      <b>LLM Security</b><br/>
-      Prompt-injection detection and guardrails for production apps
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>📊</h3>
-      <b>Data Pipelines</b><br/>
-      SQL ETL, preprocessing and analysis-ready reporting
-    </td>
-  </tr>
-</table>
 
 <br/>
 
