@@ -1,7 +1,7 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0A66C2,70:6A11CB,100:00D4FF&height=230&section=header&text=Maneesh%20Kumar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer20%7C%20Builder&descSize=19&descAlignY=57" width="100%" alt="Maneesh Kumar animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0A66C2,70:6A11CB,100:00D4FF&height=230&section=header&text=Maneesh%20Kumar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Builder&descSize=19&descAlignY=57" width="100%" alt="Maneesh Kumar animated profile header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Building+Intelligent+AI+Applications;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Engineering+Scalable+Backend+Systems;Turning+Ideas+Into+Real+Products;Open+to+AI%2FML+Engineering+Opportunities" alt="Animated typing introduction"/>
